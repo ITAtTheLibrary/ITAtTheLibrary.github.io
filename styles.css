@@ -1,0 +1,23 @@
+body {
+    background: #f4f1de;
+    font-family: 'Times New Roman', serif;
+    color: #3c3636;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.poem {
+    line-height: 1.6;
+    font-size: 1.2em;
+    text-align: center;
+}
